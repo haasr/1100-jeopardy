@@ -1,0 +1,129 @@
+{
+    "jeopardy": [
+        {
+            "name": "COMPUTING TERMS",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "In the simplest terms, a(n) ___ is a device that accepts input, processes data, and can output or store the result of its actions.<br> computer  · network  · LBS  · cloud",
+                    "answer": "computer"
+                },
+                {
+                    "value": 200,
+                    "question": "NASA uses ___ to conduct complex modeling and simulations for upcoming missions.<br> network servers  · supercomputers  · mainframe computers  · all-in-one computers",
+                    "answer": "supercomputers"
+                },
+                {
+                    "value": 300,
+                    "question": "___, such as Windows or macOS, exist primarily to help the computer run and manage its resources.<br> Operating systems  · Processors  · Cloud drives  · Networks",
+                    "answer": "Operating systems"
+                },
+                {
+                    "value": 400,
+                    "question": "___ is the gathering of information from a large group of people.<br> Group networking  · Crowdsourcing  · Collaborative computing  · LBS",
+                    "answer": "Crowdsourcing"
+                },
+                {
+                    "value": 500,
+                    "question": "Which of the following refers to the ability of a computer to perform a variety of actions based on instructions from the user or a program?<br> input  · processing  · output  · storage",
+                    "answer": "processing"
+                }
+            ]
+        },
+        {
+            "name": "NETWORKS & STORAGE",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "A(n) ___ allows users to communicate and share information between computers.<br>streaming media player  · information processing cycle  · network  · NFC",
+                    "answer": "network"
+                },
+                {
+                    "value": 200,
+                    "question": "Many computers are now being connected via ___ networks, whereby communication takes place using radio waves.<br> personal   · multimedia  · augmented  · wireless",
+                    "answer": "wireless"
+                },
+                {
+                    "value": 300,
+                    "question": "This family of network protocols is the current standard for wireless networks that connect to the Internet.<br> BLE  · DNS  · Wi-Fi  · WWW",
+                    "answer": "Wi-Fi"
+                },
+                {
+                    "value": 400,
+                    "question": "With ___ storage services, your files can be stored online and accessed from any internet-connected device.<br> cloud   · mobile  · multimedia  · augmented",
+                    "answer": "cloud"
+                },
+                {
+                    "value": 500,
+                    "question": "In order to save space, some large, multi-user environments use thin units called ___ servers which can slide in and out of an enclosure that holds many of its companion servers.<br> blade  · mainframe  · embedded  · cloud",
+                    "answer": "blade"
+                }
+            ]
+        },
+        {
+            "name": "MOBILE TECHNOLOGY",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "The ability to communicate with a device without using your hands is known as ___ computing.<br>augmented  · hands-free  · wearable  · cloud",
+                    "answer": "hands-free"
+                },
+                {
+                    "value": 200,
+                    "question": "Which of the following is a feature on your mobile device that allows the Yelp app to provide a list of restaurants that are close to you?<br>Location-based services  · Real-time information  · Crowdsourcing  · MMS",
+                    "answer": "Location-based services"
+                },
+                {
+                    "value": 300,
+                    "question": "In ___ reality, the real-world is supplemented with computer-generated information.<br>virtual   · digital  · augmented  · smart",
+                    "answer": "augmented"
+                },
+                {
+                    "value": 400,
+                    "question": "Using a wireless technology known as ___, many smartphones can now be tapped on special payment devices to complete your purchase at select stores.<br>Bluetooth  · SMS  · Wi-Fi  · NFC",
+                    "answer": "NFC"
+                },
+                {
+                    "value": 500,
+                    "question": "Many mobile devices contain a(n) ___ and gyroscope that can sense even the smallest movements.<br>GPS  · LBS  · accelerometer  · scanner",
+                    "answer": "accelerometer"
+                }
+            ]
+        },
+        {
+            "name": "APPS & SERVICES",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "Apple's ___ and Google's Assistant are two products that respond to a variety of voice commands on mobile devices.<br> iVoice  · Air  · Siri  · iMac",
+                    "answer": "Siri"
+                },
+                {
+                    "value": 200,
+                    "question": "Which of the following apps would you use if you were travelling to a country where they did not speak your language?<br> TikTok  · Google Translate  · Strava  · Pandora",
+                    "answer": "Google Translate"
+                },
+                {
+                    "value": 300,
+                    "question": "Which of the following is a popular service that will play music based on your personal preferences?<br> Hulu  · Pandora  · Netflix  · Instagram",
+                    "answer": "Pandora"
+                },
+                {
+                    "value": 400,
+                    "question": "Which of the following is an example of a \"music locker\" service that allows you to upload your own music for streaming at a later time?<br>Spotify  · YouTube Music  · Hulu  · Netflix",
+                    "answer": "YouTube Music"
+                },
+                {
+                    "value": 500,
+                    "question": "Which of the following is NOT a mobile payment service that allows you to send money to other individuals?<br> Zelle  · Venmo  · CashApp  · Strava",
+                    "answer": "Strava"
+                }
+            ]
+        }
+    ],
+    "final-jeopardy": {
+        "category": "APPS & SERVICES",
+        "question": "This messaging app with over 2 billion global users has become a favorite worldwide as a substitute for SMS.",
+        "answer": "WhatsApp"
+    }
+}

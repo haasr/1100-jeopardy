@@ -1,0 +1,129 @@
+{
+    "jeopardy": [
+        {
+            "name": "HARDWARE 1",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "Which device falls under output?: <br>printer · GPU · aspect ratio · Operating System",
+                    "answer": "printer"
+                },
+                {
+                    "value": 200,
+                    "question": "Laptops have a ___ that allows you to move the pointer without a physical mouse.<br>keyboard · navigator · trackpad · camera",
+                    "answer": "trackpad"
+                },
+                {
+                    "value": 300,
+                    "question": "Which of these units is the largest?<br>Gigabyte · Terabyte · Decabyte · Megabyte",
+                    "answer": "Terabyte"
+                },
+                {
+                    "value": 400,
+                    "question": "Where might you still find magnetic tape drives in use?<br>In web servers · In your school computer · In archives · In your laptop",
+                    "answer": "In archives. Tape drives are much cheaper per GB than cloud or hard disk backups. They also use less electricity than HDDs. Businesses backup important data on tapes."
+                },
+                {
+                    "value": 500,
+                    "question": "Why do DVDs have vastly larger storage capacities than CDs?<br>Greater surface area · Both sides have data · They have 2 layers for recording data",
+                    "answer": "They have 2 layers for recording data, storing either 4.7 or 8.5 GB (compared to CDs' 0.7 GB capacity)"
+                }
+            ]
+        },
+        {
+            "name": "HARDWARE 2",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "Which of these is NOT a basic function of a computer?<br>Reading input · reading from/writing to storage · pondering its place and purpose in the universe",
+                    "answer": "pondering its place and purpose in the universe"
+                },
+                {
+                    "value": 200,
+                    "question": "Which of these devices falls under input?<br>magnetic disk · camera · GPU · CPU",
+                    "answer": "camera"
+                },
+                {
+                    "value": 300,
+                    "question": "A monitor's height:width is called what?<br>aspect ratio · contrast ratio · viewing angle · response time",
+                    "answer": "aspect ratio"
+                },
+                {
+                    "value": 400,
+                    "question": "A(n) ___ scanner uses radio frequencies to read the data stored in special tags.<br>RFID · LDAP · Trackpad · Ethernet",
+                    "answer": "RFID"
+                },
+                {
+                    "value": 500,
+                    "question": "Why do SSDs tend to cost more than HDDs?<br>keep data more secure · have greater storage capacity · faster for reading/writing",
+                    "answer": "SSDs are faster than HDDs for reading and writing information."
+                }
+            ]
+        },
+        {
+            "name": "SOFTWARE 1",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "Another name for a folder is:<br>file path · directory · partition · C: drive<br>",
+                    "answer": "directory"
+                },
+                {
+                    "value": 200,
+                    "question": "A(n) ___ allows users to interact with the computer via graphical elements.<br>Operating System · GUI · terminal · SSD",
+                    "answer": "GUI"
+                },
+                {
+                    "value": 300,
+                    "question": "Preparing a device so that an OS can be installed is called:<br>GUI · formatting · compression · encryption",
+                    "answer": "formatting"
+                },
+                {
+                    "value": 400,
+                    "question": "This type of diagram helps programmers chart out the steps of an algorithm.<br> organizational chart · venn diagram · flowchart · treemap",
+                    "answer": "flowchart"
+                },
+                {
+                    "value": 500,
+                    "question": "Why might NTFS be preferred over the FAT file system for main storage?<br>it's more powerful, secure · it's universal · it's faster",
+                    "answer": "NTFS is more powerful and secure than FAT. FAT, however, is more universal (USB drives and SD cards often use it)."
+                }
+            ]
+        },
+        {
+            "name": "SOFTWARE 2",
+            "questions": [
+                {
+                    "value": 100,
+                    "question": "Which operating system is created by Google?<br>MacOS · Drive · ChromeOS · Windows 11",
+                    "answer": "ChromeOS"
+                },
+                {
+                    "value": 200,
+                    "question": "Windows' file manager is called ____.<br>File Explorer · Microsoft Store · Edge · Start Menu",
+                    "answer": "File Explorer"
+                },
+                {
+                    "value": 300,
+                    "question": "What manages the communication between hardware and software in a computer?<br>boot menu · operating system · GUI · ALU",
+                    "answer": "operating system"
+                },
+                {
+                    "value": 400,
+                    "question": "This method \"squeezes\" data so that it takes up less space on a hard drive.<br>encryption · decryption · formatting · compression",
+                    "answer": "compression"
+                },
+                {
+                    "value": 500,
+                    "question": "If you wanted to run a Linux environment on top of MacOS or Windows, what technology could you use?<br>Microsoft 365 · V-sync · virtual machine · GPU",
+                    "answer": "virtual machine"
+                }
+            ]
+        }
+    ],
+    "final-jeopardy": {
+        "category": "HARDWARE",
+        "question": "What number of megabytes, actual or approximate, are contained in one gigabyte?",
+        "answer": "1024 -- actual, 1000 -- approximate"
+    }
+}
